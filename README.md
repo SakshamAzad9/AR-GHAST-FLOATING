@@ -61,12 +61,6 @@ You can replace the default cube or model with any `.fbx`, `.glb`, or `.obj` fil
 
 ---
 
-## 📷 Preview
-
-> *(Include a GIF or screenshot of your floating Ghast in action)*
-
----
-
 ## 📁 Folder Structure
 
 ```
