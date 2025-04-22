@@ -29,6 +29,10 @@ This Unity project features a 3D floating Ghast (or any character you choose), f
 - ✅ Unity beginner-friendly setup
 
    ```
+## 📷 Preview
+
+![Floating Ghast Screenshot](Screenshot 2025-04-22 230533.png)
+
 
 2. **Open in Unity**
    - Unity version: `2021.3` or newer recommended.
