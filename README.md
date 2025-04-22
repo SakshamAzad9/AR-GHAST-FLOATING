@@ -31,7 +31,7 @@ This Unity project features a 3D floating Ghast (or any character you choose), f
    ```
 ## 📷 Preview
 
-![Floating Ghast Screenshot](SakshamAzad9/AR-GHAST-FLOATING/blob/main/Screenshot%202025-04-22%20230533.png)
+![Floating Ghast Screenshot](main/Screenshot2025-04-22230533.png)
 
 
 2. **Open in Unity**
